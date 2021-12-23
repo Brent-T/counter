@@ -1,1 +1,1 @@
-# Just a counter ⏱
+![Counter banner](assets/banner.png)
